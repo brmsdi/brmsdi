@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Wisley Bruno 🤔
 
-<div style="display: inline_block">
+<div align="center">
   <a href="https://github.com/brmsdi"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=brmsdi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brmsdi&layout=compact&langs_count=5&theme=dracula"/>
