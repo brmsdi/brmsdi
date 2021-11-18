@@ -14,7 +14,7 @@
   <img align="center" alt="Wisley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Wisley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Wisley-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">  
-  <img align="right" alt="Wisley-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/910896970275635223/910899557246832681/Design_sem_nome_2.png?width=422&height=422">
+  <img align="right" alt="Wisley-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/910896970275635223/910924885847605278/Design_sem_nome_3.png?width=422&height=422">
 </div>
   
   ##
