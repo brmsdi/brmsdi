@@ -2,7 +2,7 @@
 #### Analista de sistemas e desenvolvedor full stack. Busco por novas tecnologias diariamente para enriquecer a minha base de conhecimento.
 #### Se há problemática, desenvolveremos a solução. E aí, vamos trabalhar juntos?
 
-<div>
+<div align="center">
   <a href="https://github.com/brmsdi"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brmsdi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brmsdi&layout=compact&langs_count=7&count_private=true&theme=dracula"/>
