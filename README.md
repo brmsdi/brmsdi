@@ -1,5 +1,4 @@
 ## Olá! Eu sou o Wisley Bruno.
-#### Analista de sistemas e desenvolvedor full stack. Busco por novas tecnologias diariamente para enriquecer a minha base de conhecimento.
 
 <div align="center">
   <a href="https://github.com/brmsdi"/>
